@@ -5,6 +5,9 @@ export default class Home extends Component {
     return (
       <div>
         <h1>HOME</h1>
+        <header>
+          头部
+        </header>
       </div>
     )
   }
