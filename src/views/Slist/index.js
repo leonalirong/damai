@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class Mine extends Component {
+export default class Slist extends Component {
   render() {
     return (
       <div>
-        Mine
+        SingerList
       </div>
     )
   }

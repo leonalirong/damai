@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class Mine extends Component {
+export default class Plist extends Component {
   render() {
     return (
       <div>
-        Mine
+        List
       </div>
     )
   }
